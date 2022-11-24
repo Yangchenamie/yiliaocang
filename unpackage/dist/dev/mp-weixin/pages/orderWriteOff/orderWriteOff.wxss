@@ -1,0 +1,133 @@
+
+.content.data-v-9475ef78 {
+  padding: 20rpx;
+}
+/* 核销商品 */
+.commodity.data-v-9475ef78 {
+  padding: 30rpx;
+  background-color: #FFFFFF;
+  border-radius: 20rpx;
+  box-shadow:0 0 10rpx 5rpx rgba(0,0,0,0.1);
+}
+.commodity-box.data-v-9475ef78 {
+  display: flex;
+  width: 650rpx;
+  height: 180rpx;
+}
+.commodity-box image.data-v-9475ef78 {
+  border-radius: 20rpx;
+  width: 180rpx;
+  height: 180rpx;
+}
+.commodity-box .commodity-info .commodity-title.data-v-9475ef78 {
+  padding: 0 10rpx 20rpx 20rpx;
+  width: 440rpx;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.commodity-box .commodity-info .commodity-kind.data-v-9475ef78 {
+  padding: 0 10rpx 10rpx 20rpx;
+  font-size: 26rpx;
+  color: #999999;
+}
+.commodity-box .commodity-info .commodity-price.data-v-9475ef78 {
+  display: flex;
+  padding: 10rpx 10rpx 10rpx 20rpx;
+  justify-content: space-between;
+}
+.commodity-box .commodity-info .commodity-price .price.data-v-9475ef78 {
+  color: #f9284d;
+  font-weight: 600;
+}
+.commodity-box .commodity-info .commodity-price .number.data-v-9475ef78 {
+  font-size: 24rpx;
+}
+/* 二维码区域 */
+.status.data-v-9475ef78 {
+  padding: 40rpx 20rpx 20rpx 20rpx;
+  margin-top: 40rpx;
+  border-radius: 20rpx;
+  box-shadow:0 0 10rpx 5rpx rgba(0,0,0,0.1);
+  background-color: #FFFFFF;
+}
+.status .status-box.data-v-9475ef78 {
+  width: 660rpx;
+  font-weight: 600;
+  height: 250rpx;
+}
+.status .status-box .status-head.data-v-9475ef78 {
+  display: flex;
+}
+.status .status-box .status-head image.data-v-9475ef78 {
+  width: 40rpx;
+  height: 40rpx;
+}
+.status .status-box .status-head .status-head-right.data-v-9475ef78 {
+  width: 620rpx;
+  margin-left: 20rpx;
+  line-height: 35rpx;
+  height: 60rpx;
+  display: flex;
+  justify-content: space-between;
+}
+.status .status-box .status-head .status-head-right.data-v-9475ef78 {
+  font-size: 34rpx;
+  border-bottom: 2rpx dashed #666666;
+}
+.status .status-box .status-head .status-head-right .daihexiao.data-v-9475ef78 {
+  font-size: 28rpx;
+  color: #177FFF;
+}
+.status .status-box .status-body.data-v-9475ef78 {
+  display: flex;
+  justify-content: space-between;
+}
+.status .status-box .status-body .erweima.data-v-9475ef78 {
+  padding-left: 50rpx;
+  padding-top: 15rpx;
+  display: flex;
+  flex-direction: column;
+}
+.status .status-box .status-body .erweima ._p.data-v-9475ef78 {
+  font-size: 20rpx;
+  text-align: left;
+  padding-left: 5rpx;
+  color: #177FFF;
+}
+.status .status-box .status-body .erweima image.data-v-9475ef78 {
+  width: 150rpx;
+  height: 150rpx;
+}
+.status .status-box .status-body .erweima-number.data-v-9475ef78 {
+  line-height: 200rpx;
+  color: #7d7d7d;
+}
+.info.data-v-9475ef78 {
+  margin-top: 40rpx;
+  padding: 20rpx;
+  border-radius: 20rpx;
+  background-color: #FFFFFF;
+  box-shadow:0 0 10rpx 5rpx rgba(0,0,0,0.1);
+}
+.info-one.data-v-9475ef78,.info-two.data-v-9475ef78,.info-three.data-v-9475ef78,.info-four.data-v-9475ef78,.info-five.data-v-9475ef78,.info-six.data-v-9475ef78 {
+  display: flex;
+  justify-content: space-between;
+  padding: 20rpx;
+}
+.info-three.data-v-9475ef78 {
+  padding-bottom: 40rpx;
+  border-bottom: 2rpx solid #C0C0C0;
+}
+.info-four.data-v-9475ef78 {
+  padding-top: 40rpx;
+}
+.info-three .info-price.data-v-9475ef78 {
+  font-size: 36rpx;
+  color: #f9284d;
+  font-weight: 600;
+}
+.info-four .info-info.data-v-9475ef78,.info-five .info-info.data-v-9475ef78,.info-six .info-info.data-v-9475ef78 {
+  color: #666666;
+}
+

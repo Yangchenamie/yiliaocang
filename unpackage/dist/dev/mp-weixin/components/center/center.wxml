@@ -1,0 +1,1 @@
+<view class="content"><my-info vue-id="3b3d4ee2-1" bind:__l="__l"></my-info><delivery-order vue-id="3b3d4ee2-2" bind:__l="__l"></delivery-order><reservation-order vue-id="3b3d4ee2-3" bind:__l="__l"></reservation-order><register vue-id="3b3d4ee2-4" bind:__l="__l"></register><other-functions vue-id="3b3d4ee2-5" bind:__l="__l"></other-functions></view>

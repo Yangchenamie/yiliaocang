@@ -1,0 +1,32 @@
+
+.container.data-v-05337d24 {
+  margin: 400rpx auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.nocart.data-v-05337d24 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 120rpx;
+  height: 120rpx;
+  border-radius: 50%;
+  background-color: #187fff;
+}
+.nocart image.data-v-05337d24 {
+  width: 80rpx;
+  height: 80rpx;
+}
+.tip.data-v-05337d24 { 
+  margin-top: 20rpx;
+  font-size: 26rpx;
+  color: #818181;
+}
+.toshop.data-v-05337d24 {
+  font-size: 22rpx;
+  margin-top: 10rpx;
+  color: #187fff;
+}
+

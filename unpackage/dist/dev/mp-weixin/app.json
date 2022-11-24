@@ -1,0 +1,73 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/people/people",
+    "pages/benefits/benefits",
+    "pages/management/management",
+    "pages/lecture/lecture",
+    "pages/lectureDetails/lectureDetails",
+    "pages/writeOffList/writeOffList",
+    "pages/orderWriteOff/orderWriteOff",
+    "pages/memberRecharge/memberRecharge",
+    "pages/classification/classification",
+    "pages/commodityInfo/commodityInfo",
+    "pages/testAppointment/testAppointment",
+    "pages/physicalList/physicalList",
+    "pages/physicalInfo/physicalInfo",
+    "pages/time/time",
+    "pages/detail/detail",
+    "pages/listInquiries/listInquiries",
+    "pages/listPrescriptions/listPrescriptions",
+    "pages/drugDetails/drugDetails",
+    "pages/login/login",
+    "pages/register/register",
+    "pages/collection/collection",
+    "pages/userLogin/userLogin",
+    "pages/payment/payment",
+    "pages/cart/cart",
+    "pages/consultation/consultation",
+    "pages/allcomments/allcomments",
+    "pages/address/address"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#818181",
+    "selectedColor": "#0057c8",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "static/home.png",
+        "selectedIconPath": "static/home-active.png"
+      },
+      {
+        "text": "购物车",
+        "pagePath": "pages/cart/cart",
+        "iconPath": "static/cart- full.png",
+        "selectedIconPath": "static/cart-active.png"
+      },
+      {
+        "text": "咨询",
+        "pagePath": "pages/listInquiries/listInquiries",
+        "iconPath": "static/Consultation.png",
+        "selectedIconPath": "static/Consultation-active.png"
+      },
+      {
+        "text": "个人中心",
+        "pagePath": "pages/people/people",
+        "iconPath": "static/people.png",
+        "selectedIconPath": "static/people-active.png"
+      }
+    ]
+  },
+  "uniStatistics": {
+    "enable": true
+  },
+  "usingComponents": {}
+}

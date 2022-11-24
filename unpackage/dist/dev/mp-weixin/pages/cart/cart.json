@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-swipe-action": "/uni_modules/uni-swipe-action/components/uni-swipe-action/uni-swipe-action",
+    "uni-swipe-action-item": "/uni_modules/uni-swipe-action/components/uni-swipe-action-item/uni-swipe-action-item",
+    "drug-cart": "/components/drugCart/drugCart",
+    "physical-cart": "/components/physicalCart/physicalCart",
+    "settle": "/components/settle/settle",
+    "u-segmented-control": "/uni_modules/uni-segmented-control/components/uni-segmented-control/uni-segmented-control"
+  }
+}

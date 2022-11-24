@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "体检列表",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "physical": "/components/physical/physical",
+    "pending-medical": "/components/pendingMedical/pendingMedical",
+    "test-done": "/components/testDone/testDone",
+    "u-segmented-control": "/uni_modules/uni-segmented-control/components/uni-segmented-control/uni-segmented-control"
+  }
+}

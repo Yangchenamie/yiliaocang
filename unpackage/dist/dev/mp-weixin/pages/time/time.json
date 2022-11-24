@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "预约时间",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-datetime-picker": "/uni_modules/uni-datetime-picker/components/uni-datetime-picker/uni-datetime-picker",
+    "u-calendar": "/uni_modules/uni-calendar/components/uni-calendar/uni-calendar",
+    "u-datetime-picker": "/uni_modules/uni-datetime-picker/components/uni-datetime-picker/uni-datetime-picker"
+  }
+}

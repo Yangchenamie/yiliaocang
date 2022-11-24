@@ -1,0 +1,180 @@
+page.data-v-39f6f63e,._div.data-v-39f6f63e,._dl.data-v-39f6f63e,._dt.data-v-39f6f63e,._dd.data-v-39f6f63e,._ul.data-v-39f6f63e,._ol.data-v-39f6f63e,._li.data-v-39f6f63e,._h1.data-v-39f6f63e,._h2.data-v-39f6f63e,._h3.data-v-39f6f63e,._h4.data-v-39f6f63e,._h5.data-v-39f6f63e,._h6.data-v-39f6f63e,._pre.data-v-39f6f63e,._code.data-v-39f6f63e,form.data-v-39f6f63e,._fieldset.data-v-39f6f63e,._legend.data-v-39f6f63e,input.data-v-39f6f63e,button.data-v-39f6f63e,textarea.data-v-39f6f63e,._p.data-v-39f6f63e,._blockquote.data-v-39f6f63e,._th.data-v-39f6f63e,._td.data-v-39f6f63e {
+    margin: 0;
+    padding: 0;
+}
+._img.data-v-39f6f63e{
+    border:0;
+    vertical-align:middle
+}
+._ul.data-v-39f6f63e,._li.data-v-39f6f63e {
+    list-style: none;
+}
+._a.data-v-39f6f63e {
+    text-decoration: none;
+}
+._i.data-v-39f6f63e {
+    font-family: 'icomoon';
+    font-style: normal;
+}
+._em.data-v-39f6f63e {
+    font-style: normal;
+}
+/* 让所有斜体 不倾斜 */
+._em.data-v-39f6f63e,
+._i.data-v-39f6f63e {
+    font-style: normal;
+}
+/* 去掉列表里前面的小点 */
+._li.data-v-39f6f63e {
+    list-style: none;
+}
+/* 图片没有边框  去掉图片底侧的空白缝隙 */
+._img.data-v-39f6f63e {
+    border: 0;
+    vertical-align: middle;
+}
+/* 让button按钮变成小手 */
+button.data-v-39f6f63e {
+    cursor: pointer;
+}
+.con-body.data-v-39f6f63e {
+  padding: 20rpx;
+}
+.items .item.data-v-39f6f63e {
+  margin: 40rpx 0;
+  padding: 40rpx;
+  width: 630rpx;
+  border-radius: 20rpx;
+  height: 330rpx;
+  box-shadow:0 0 10rpx 5rpx rgba(0,0,0,0.1);
+}
+.items .item .item-head.data-v-39f6f63e {
+  display: flex;
+  justify-content: space-between;
+}
+.items .item .item-head .item-head-left.data-v-39f6f63e {
+  display: flex;
+}
+.items .item .item-head .item-head-left ._p.data-v-39f6f63e {
+  font-size: 28rpx;
+  line-height: 38rpx;
+}
+.items .item .item-head .item-head-left image.data-v-39f6f63e {
+  width: 40rpx;
+  height: 40rpx;
+}
+.items .item .item-head .item-head-right ._p.data-v-39f6f63e {
+  font-size: 26rpx;
+  position: relative;
+}
+.items .item .item-head .item-head-right ._p.data-v-39f6f63e::before {
+  content: '';
+  position: absolute;
+  left: -20rpx;
+  top: 15rpx;
+  width: 10rpx;
+  height: 10rpx;
+  background-color: #177FFF;
+  border-radius: 50%;
+}
+.item-body.data-v-39f6f63e {
+  margin-top: 20rpx;
+  display: flex;
+}
+.item-body image.data-v-39f6f63e {
+  width: 200rpx;
+  height: 200rpx;
+  border-radius: 40rpx;
+}
+.item-body .detail .title.data-v-39f6f63e {
+  width: 330rpx;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.item-body .detail.data-v-39f6f63e {
+  position: relative;
+  padding-left: 20rpx;
+  padding-top: 20rpx;
+}
+.item-body .detail .number.data-v-39f6f63e {
+  position: absolute;
+  right: -85rpx;
+  top: 20rpx;
+}
+.item-body .detail .kind.data-v-39f6f63e {
+  font-size: 28rpx;
+  padding-top: 20rpx;
+  padding-bottom: 20rpx;
+  color: #b0b0b0;
+}
+.item-body .detail .price.data-v-39f6f63e {
+  color: red;
+  font-weight: 600;
+}
+.item-body .detail .status.data-v-39f6f63e {
+  position: relative;
+  font-size: 24rpx;
+  padding-top: 50rpx;
+  color: #8c8c8c;
+}
+.item-body .detail .status.data-v-39f6f63e::after {
+  position: absolute;
+  content: '已退';
+  left: 115rpx;
+  top: 50rpx;
+  color: #f9284d;
+}
+.item-body .detail .pre-time.data-v-39f6f63e {
+  color: #8c8c8c;
+  font-size: 24rpx;
+}
+.item-bootom .time.data-v-39f6f63e {
+  font-size: 28rpx;
+  color: #666666;
+  line-height: 60rpx;
+  font-weight: 600;
+}
+.item-bootom .btn .hexiao.data-v-39f6f63e {
+  display: block;
+  text-align: center;
+  line-height: 50rpx;
+  border: 4rpx solid #177FFF;
+  border-radius: 20rpx;
+  color: #177ffe;
+  background-color: #f1f7ff;
+  height: 50rpx;
+  width: 150rpx;
+}
+.item-bootom.data-v-39f6f63e {
+  padding-top: 20rpx;
+  display: flex;
+  justify-content: space-between;
+}
+.item-bootom .more.data-v-39f6f63e {
+  font-size: 28rpx;
+  color: #666666;
+  line-height: 60rpx;
+  font-weight: 600;
+}
+.item-bootom .btn.data-v-39f6f63e {
+  display: flex;
+  justify-content: space-between;
+}
+.item-bootom .btn .logistics.data-v-39f6f63e,.receipt.data-v-39f6f63e {
+  text-align: center;
+  margin-left: 20rpx;
+  width: 140rpx;
+  font-size: 28rpx;
+  line-height: 50rpx;
+  height: 50rpx;
+  color: #6d6d6d;
+  border: 4rpx solid #6d6d6d;
+  border-radius: 40rpx;
+}
+.item-bootom .btn .receipt.data-v-39f6f63e {
+  color: #177FFF;
+  border: 4rpx solid #177FFF;
+  background-color: #f1f7ff;
+}
+

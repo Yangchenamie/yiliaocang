@@ -1,0 +1,134 @@
+page.data-v-61964838,._div.data-v-61964838,._dl.data-v-61964838,._dt.data-v-61964838,._dd.data-v-61964838,._ul.data-v-61964838,._ol.data-v-61964838,._li.data-v-61964838,._h1.data-v-61964838,._h2.data-v-61964838,._h3.data-v-61964838,._h4.data-v-61964838,._h5.data-v-61964838,._h6.data-v-61964838,._pre.data-v-61964838,._code.data-v-61964838,form.data-v-61964838,._fieldset.data-v-61964838,._legend.data-v-61964838,input.data-v-61964838,button.data-v-61964838,textarea.data-v-61964838,._p.data-v-61964838,._blockquote.data-v-61964838,._th.data-v-61964838,._td.data-v-61964838 {
+    margin: 0;
+    padding: 0;
+}
+._img.data-v-61964838{
+    border:0;
+    vertical-align:middle
+}
+._ul.data-v-61964838,._li.data-v-61964838 {
+    list-style: none;
+}
+._a.data-v-61964838 {
+    text-decoration: none;
+}
+._i.data-v-61964838 {
+    font-family: 'icomoon';
+    font-style: normal;
+}
+._em.data-v-61964838 {
+    font-style: normal;
+}
+/* 让所有斜体 不倾斜 */
+._em.data-v-61964838,
+._i.data-v-61964838 {
+    font-style: normal;
+}
+/* 去掉列表里前面的小点 */
+._li.data-v-61964838 {
+    list-style: none;
+}
+/* 图片没有边框  去掉图片底侧的空白缝隙 */
+._img.data-v-61964838 {
+    border: 0;
+    vertical-align: middle;
+}
+/* 让button按钮变成小手 */
+button.data-v-61964838 {
+    cursor: pointer;
+}
+.con-body.data-v-61964838 {
+  padding: 20rpx;
+}
+.items .item.data-v-61964838 {
+  margin: 40rpx 0;
+  padding: 40rpx;
+  width: 630rpx;
+  border-radius: 20rpx;
+  height: 310rpx;
+  box-shadow:0 0 10rpx 5rpx rgba(0,0,0,0.1);
+}
+.items .item .item-head.data-v-61964838 {
+  display: flex;
+  justify-content: space-between;
+}
+.items .item .item-head .item-head-left.data-v-61964838 {
+  display: flex;
+}
+.items .item .item-head .item-head-left ._p.data-v-61964838 {
+  font-size: 28rpx;
+  line-height: 38rpx;
+}
+.items .item .item-head .item-head-left image.data-v-61964838 {
+  width: 40rpx;
+  height: 40rpx;
+}
+.items .item .item-head .item-head-right ._p.data-v-61964838 {
+  font-size: 26rpx;
+  position: relative;
+}
+.items .item .item-head .item-head-right ._p.data-v-61964838::before {
+  content: '';
+  position: absolute;
+  left: -20rpx;
+  top: 15rpx;
+  width: 10rpx;
+  height: 10rpx;
+  background-color: #177FFF;
+  border-radius: 50%;
+}
+.item-body.data-v-61964838 {
+  margin-top: 20rpx;
+  display: flex;
+}
+.item-body image.data-v-61964838 {
+  width: 180rpx;
+  height: 180rpx;
+  border-radius: 20rpx;
+}
+.item-body .detail .title.data-v-61964838 {
+  width: 330rpx;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.item-body .detail.data-v-61964838 {
+  position: relative;
+  padding-left: 20rpx;
+  padding-top: 20rpx;
+}
+.item-body .detail .people.data-v-61964838 {
+  position: relative;
+  font-size: 24rpx;
+  padding-top: 20rpx;
+  padding-bottom: 20rpx;
+  color: #8c8c8c;
+}
+.item-body .detail .price.data-v-61964838 {
+  color: #f9284d;
+  font-size: 36rpx;
+  font-weight: 600;
+}
+.item-bootom.data-v-61964838 {
+  padding-top: 20rpx;
+  display: flex;
+  justify-content: space-between;
+}
+.item-bootom .time.data-v-61964838 {
+  font-size: 28rpx;
+  color: #666666;
+  line-height: 60rpx;
+  font-weight: 600;
+}
+.item-bootom .btn .hexiao.data-v-61964838 {
+  display: block;
+  text-align: center;
+  line-height: 50rpx;
+  border: 4rpx solid #177FFF;
+  border-radius: 20rpx;
+  color: #177ffe;
+  background-color: #f1f7ff;
+  height: 50rpx;
+  width: 150rpx;
+}
+

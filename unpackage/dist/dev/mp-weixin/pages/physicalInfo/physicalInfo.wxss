@@ -1,0 +1,218 @@
+
+.move {
+    background-color: #177FFF !important;
+    color: #FFFFFF;
+}
+.time-slot {
+    padding: 40rpx;
+    margin-top: 40rpx;
+    background-color: #FFFFFF;
+    box-shadow:0 0 10rpx 5rpx rgba(0,0,0,0.1);
+}
+.time-slot .time-title {
+    font-weight: 600;
+    margin-bottom: 20rpx;
+}
+.time-slot .times {
+    display: flex;
+    justify-content: space-between;
+    flex-flow: wrap;
+}
+.time-slot .times ._p {
+    padding: 10rpx;
+    width: 180rpx;
+    text-align: center;
+    margin-top: 20rpx;
+    border-radius: 20rpx;
+    background-color: #f6f6f6;
+    margin-right: 20rpx;
+}
+.choose {
+    width: 640rpx;
+    padding: 40rpx;
+    display: flex;
+    justify-content: space-between;
+}
+.choose ._p {
+    font-size: 28rpx;
+    margin-right: 30rpx;
+    line-height: 70rpx;
+}
+.choose ._p ._span {
+    color: #177FFF;
+    font-weight: 600;
+}
+swiper {
+  width: 100%;
+  height: 400rpx;
+}
+.swiper-item image {
+  width: 100%;
+  height: 400rpx;
+}
+.content {
+  padding: 20rpx;
+}
+.content .top {
+  display: flex;
+  justify-content: space-between;
+}
+.content .top .top-left {
+  display: flex;
+}
+.content .top .top-left .price {
+  color: #f9284d;
+  font-size: 38rpx;
+  font-weight: 600;
+}
+.content .top .top-left .useing-price {
+  padding: 0rpx 10rpx;
+  font-size: 24rpx;
+  margin-left: 10rpx;
+  line-height: 48rpx;
+  text-align: center;
+  color: #FFFFFF;
+  border-radius: 20rpx;
+  background-color: #f9284d;
+}
+.content .top .top-right {
+  font-size: 24rpx;
+  color: #666666;
+}
+.content .stock {
+  margin-top: 20rpx;
+  font-size: 24rpx;
+  color: #747474;
+}
+.content .tip {
+  margin-top: 20rpx;
+  font-size: 22rpx;
+  color: #f9284d;
+}
+.content .title {
+  margin-top: 20rpx;
+  font-weight: 600;
+}
+.content .labels {
+  margin-top: 20rpx;
+  display: flex;
+}
+.content .labels ._p {
+  color: #666666;
+  border-radius: 10rpx;
+  font-size: 24rpx;
+  height: 40rpx;
+  line-height: 40rpx;
+  padding: 0 10rpx;
+  margin-right: 15rpx;
+  background-color: #e0e0e0;
+}
+.content .pre-time-box {
+  width: 500rpx;
+  margin-top: 20rpx;
+  font-size: 32rpx;
+  font-weight: 600;
+}
+.content .pre-time-box ._p {
+  margin-bottom: 20rpx;
+}
+.content .pre-time-box .choose-box {
+  display: flex;
+}
+.content .pre-time-box .choose {
+  font-size: 28rpx;
+  font-weight: 500;
+  text-align: center;
+  width: 120rpx;
+  border-radius: 10rpx;
+  line-height: 50rpx;
+  height: 70rpx;
+  background-color: #C0C0C0;
+  border: 3rpx solid #C0C0C0;
+}
+.address-box {
+  margin-top: 60rpx;
+}
+.address-box .title {
+  font-size: 34rpx;
+}
+.address-box .address-con {
+  color: #666666;
+  padding: 30rpx;
+  font-size: 28rpx;
+  margin-top: 40rpx;
+  background-color: #FFFFFF;
+  border-radius: 20rpx;
+  box-shadow:0 0 10rpx 5rpx rgba(0,0,0,0.1);
+}
+.address-box .address-con .address-top {
+  display: flex;
+  font-weight: 600;
+}
+.address-box .address-con .address-top image {
+  width: 40rpx;
+  height: 40rpx;
+  margin-right: 20rpx;
+}
+.address-box .address-con .address, .phone, .work-time {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30rpx;
+}
+.address-box .address-con .right {
+  width: 450rpx;
+}
+.text-box .infos {
+  margin-top: 40rpx;
+  font-size: 34rpx;
+  font-weight: 600;
+}
+.text {
+  padding: 30rpx;
+  margin-top: 40rpx;
+  font-size: 24rpx;
+  background-color: #FFFFFF;
+  border-radius: 20rpx;
+  box-shadow:0 0 10rpx 5rpx rgba(0,0,0,0.1);
+}
+.text ._p {
+  display: block;
+  margin: 20rpx 0;
+  color: #666666;
+}
+.text ._p:nth-child(3), .text ._p:nth-child(5){
+  height: 80rpx;
+  border-bottom: 2rpx solid #ebebeb;
+}
+.text ._p:nth-child(5) {
+  height: 120rpx;
+  border-bottom: 2rpx solid #ebebeb;
+}
+.text ._p:nth-child(7) {
+  height: 100rpx;
+  border-bottom: 2rpx solid #ebebeb;
+}
+.text .text-title {
+  width: 250rpx;
+  margin-top: 40rpx;
+  font-weight: 600;
+  margin-left: 50%;
+  border-radius: 30rpx;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  text-align: center;
+  padding: 10rpx 20rpx;
+  background-color: #e0e0e0;
+}
+.text image {
+  margin-top: 40rpx;
+  margin-bottom: 100rpx;
+  height: 250rpx;
+  border-radius: 20rpx;
+}
+.fix {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+

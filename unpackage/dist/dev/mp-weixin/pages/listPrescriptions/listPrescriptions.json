@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "处方列表",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "prescriptions": "/components/prescriptions/prescriptions"
+  }
+}

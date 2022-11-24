@@ -1,0 +1,43 @@
+page,._div,._dl,._dt,._dd,._ul,._ol,._li,._h1,._h2,._h3,._h4,._h5,._h6,._pre,._code,form,._fieldset,._legend,input,button,textarea,._p,._blockquote,._th,._td {
+    margin: 0;
+    padding: 0;
+}
+._img{
+    border:0;
+    vertical-align:middle
+}
+._ul,._li {
+    list-style: none;
+}
+._a {
+    text-decoration: none;
+}
+._i {
+    font-family: 'icomoon';
+    font-style: normal;
+}
+._em {
+    font-style: normal;
+}
+/* 让所有斜体 不倾斜 */
+._em,
+._i {
+    font-style: normal;
+}
+/* 去掉列表里前面的小点 */
+._li {
+    list-style: none;
+}
+/* 图片没有边框  去掉图片底侧的空白缝隙 */
+._img {
+    border: 0;
+    vertical-align: middle;
+}
+/* 让button按钮变成小手 */
+button {
+    cursor: pointer;
+}
+page {
+  background-color: #fdfdfd;
+}
+

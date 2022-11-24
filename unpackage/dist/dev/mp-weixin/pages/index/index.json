@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "",
+  "navigationBarBackgroundColor": "#177fff",
+  "usingComponents": {
+    "medical-nav": "/components/medicalNav/medicalNav",
+    "carousel": "/components/carousel/carousel",
+    "discount": "/components/discount/discount",
+    "health-products": "/components/healthProducts/healthProducts",
+    "consult": "/components/consult/consult"
+  }
+}

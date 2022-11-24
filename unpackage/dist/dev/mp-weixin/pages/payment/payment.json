@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "支付",
+  "navigationBarBackgroundColor": "#efeef4",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "pay-keyboard": "/components/mi-payKeyboard/mi-payKeyboard"
+  }
+}

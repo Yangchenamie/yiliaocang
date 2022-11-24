@@ -1,0 +1,111 @@
+page,._div,._dl,._dt,._dd,._ul,._ol,._li,._h1,._h2,._h3,._h4,._h5,._h6,._pre,._code,form,._fieldset,._legend,input,button,textarea,._p,._blockquote,._th,._td {
+    margin: 0;
+    padding: 0;
+}
+._img{
+    border:0;
+    vertical-align:middle
+}
+._ul,._li {
+    list-style: none;
+}
+._a {
+    text-decoration: none;
+}
+._i {
+    font-family: 'icomoon';
+    font-style: normal;
+}
+._em {
+    font-style: normal;
+}
+/* 让所有斜体 不倾斜 */
+._em,
+._i {
+    font-style: normal;
+}
+/* 去掉列表里前面的小点 */
+._li {
+    list-style: none;
+}
+/* 图片没有边框  去掉图片底侧的空白缝隙 */
+._img {
+    border: 0;
+    vertical-align: middle;
+}
+/* 让button按钮变成小手 */
+button {
+    cursor: pointer;
+}
+page {
+  background-color: #fdfdfd;
+}
+.content .info {
+  width: 100%;
+  height: 380rpx;
+  background-color: #007AFF;
+}
+.content .my-info {
+  display: flex;
+  padding: 40rpx 40rpx;
+  height: 170rpx;
+  background-color: #007AFF;
+}
+.content .my-info image {
+  width: 145rpx;
+  height: 145rpx;
+  border-radius: 50%;
+}
+.content .my-info .name {
+  padding-left: 25rpx;
+  margin-top: 20rpx;
+}
+.content .my-info .name ._h1 {
+  display: flex;
+  font-size: 34rpx;
+  color: #FFFFFF;
+}
+.content .my-info .name ._h1 image {
+  padding-left: 20rpx;
+  width: 45rpx;
+  height: 45rpx;
+}
+.content .my-info .name ._p {
+  font-size: 28rpx;
+  font-weight: 300;
+  line-height: 65rpx;
+  color: #FFFFFF;
+}
+.content .info .vip {
+  border-radius: 10rpx 10rpx 0 0;
+  margin-left: 40rpx;
+  width: 670rpx;
+  height: 130rpx;
+  background: linear-gradient(45deg, #f7e5d5, #f2d4b9);
+}
+.content .info .vip .vip-box {
+  display: flex;
+  justify-content: space-between;
+  padding: 40rpx 40rpx;
+}
+.content .info .vip .vip-left {
+  display: flex;
+  justify-content: space-between;
+  width: 200rpx;
+}
+.content .info .vip .vip-left ._p {
+  line-height: 50rpx;
+  color: #b79979;
+  font-size: 28rpx;
+  font-weight: 700;
+}
+.content .info .vip .vip-left image {
+  width: 45rpx;
+  height: 45rpx;
+}
+.content .info .vip .vip-right {
+  font-size: 25rpx;
+  line-height: 55rpx;
+  color: #b79979;
+}
+

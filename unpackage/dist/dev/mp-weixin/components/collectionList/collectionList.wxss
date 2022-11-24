@@ -1,0 +1,106 @@
+.bg-box.data-v-4ca85878 {
+  margin-top: 10rpx;
+  width: 100%;
+  height: 100%;
+  border-top-left-radius: 80rpx;
+  border-top-right-radius: 80rpx;
+  background-color: #f6f6f6;
+}
+.goods-item.data-v-4ca85878 {
+  display: flex;
+  padding: 10px 5px;
+  /* border-bottom: 1px solid #f0f0f0; */
+}
+.goods-pic.data-v-4ca85878 {
+  width: 120px;
+  height: 120px;
+  display: block;
+  border-radius: 30rpx;
+}
+.goods-item-left.data-v-4ca85878 {
+  display: flex;
+  align-items: center;
+  margin-right: 5px;
+}
+.goods-item-right.data-v-4ca85878 {
+  /* width: 240px; */
+  display: flex;
+  flex-direction: column;
+  margin-left: 15rpx;
+  justify-content: space-between;
+}
+.goods-name.data-v-4ca85878 {
+  width: 100%;
+  font-size: 16px;
+  height: 90rpx;
+  font-weight: 700;
+  /* overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical; */
+  display: block;
+}
+.goods-price.data-v-4ca85878 {
+  font-size: 36rpx;
+  color: #c00000;
+  margin-top: 30rpx;
+}
+.goods_people.data-v-4ca85878 {
+  color: grey;
+  font-size: 24rpx;
+}
+.conTabar.data-v-4ca85878 {
+  font-size: 28rpx;
+  display: flex;
+  justify-content: space-around;
+  line-height: 60rpx;
+}
+.conTabar view.data-v-4ca85878 {
+  margin: 30rpx 0;
+}
+.conTabarLeft.data-v-4ca85878 {
+  display: flex;
+  justify-content: space-between;
+}
+.conTabarLeft view.data-v-4ca85878 {
+  margin: 0 20rpx;
+}
+.my-settle-container.data-v-4ca85878 {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 50px;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 14px;
+  padding-left: 5px;
+  box-sizing: border-box;
+}
+.my-settle-container .radio.data-v-4ca85878 {
+  display: flex;
+  align-items: center;
+}
+.my-settle-container .amount-box .amount.data-v-4ca85878 {
+  color: #C00000;
+  font-weight: bold;
+}
+.my-settle-container .btn-settle.data-v-4ca85878 {
+  border: 2rpx solid #177fff;
+  height: 30px;
+  color: #177fff;
+  line-height: 30px;
+  padding: 0 15px;
+  text-align: center;
+  border-radius: 50rpx;
+}
+.my-settle-container .btnAll.data-v-4ca85878 {
+  margin-right: 10rpx;
+  display: flex;
+  flex: 0.8;
+  justify-content: space-between;
+}
+

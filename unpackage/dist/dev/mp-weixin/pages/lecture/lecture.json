@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "医生讲座",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "live": "/components/live/live",
+    "register": "/components/register/register",
+    "recommend": "/components/recommend/recommend",
+    "consulting-topics": "/components/consultingTopics/consultingTopics"
+  }
+}

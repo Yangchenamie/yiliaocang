@@ -1,0 +1,1 @@
+<view><live vue-id="09cf9d82-1" bind:__l="__l"></live><register vue-id="09cf9d82-2" bind:__l="__l"></register><recommend vue-id="09cf9d82-3" VideoList="{{VideoList}}" bind:__l="__l"></recommend><consulting-topics vue-id="09cf9d82-4" ListAll="{{ListAll}}" bind:__l="__l"></consulting-topics></view>

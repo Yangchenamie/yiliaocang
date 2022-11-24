@@ -1,0 +1,61 @@
+
+.item-head {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 30rpx;
+  margin: 30rpx 0;
+}
+.item-head .item-head-left {
+  display: flex;
+}
+.item-head .item-head-left ._p {
+  fonuni-size: 32rpx;
+  line-height: 38rpx;
+  margin-left: 15rpx;
+  font-weight: 700;
+}
+.item-head .item-head-left image {
+  width: 40rpx;
+  height: 40rpx;
+  margin-right: 6rpx;
+}
+.item-head .item-head-right ._p {
+  fonuni-size: 30rpx;
+  position: relative;
+}
+.item-body{
+  box-shadow:0 0 10rpx 5rpx rgba(0,0,0,0.1);
+  margin: 0 26rpx 20rpx;
+  border-radius: 6rpx;
+  padding: 0 10rpx 20rpx;
+  box-sizing: border-box;
+}
+.item-tr{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap:nowrap;
+  text-align: center;
+}
+.item-tr :nth-child(1){
+  flex:0.8;
+}
+.item-tr :nth-child(2){
+  flex:0.4;
+}
+.item-th{
+  font-size: 36rpx;
+  padding: 10rpx 0 20rpx;
+}
+.item-td :nth-child(1){
+  text-align: left;
+  /* padding-left: 20rpx; */
+  text-align: center;
+  box-sizing: border-box;
+}
+.item-td :nth-child(2){
+  text-align: center;
+}
+.item-td ._li{
+  margin: 16rpx 0;
+}
+

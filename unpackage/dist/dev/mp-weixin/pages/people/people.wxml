@@ -1,0 +1,1 @@
+<view class="content"><block wx:if="{{!token}}"><weixinlogin vue-id="2ee2aee0-1" bind:__l="__l"></weixinlogin></block><block wx:else><center vue-id="2ee2aee0-2" bind:__l="__l"></center></block></view>

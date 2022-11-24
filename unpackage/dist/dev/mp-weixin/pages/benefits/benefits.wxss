@@ -1,0 +1,12 @@
+
+.content ._p.data-v-4a40ea06 {
+  padding: 40rpx 20rpx;
+  font-size: 40rpx;
+  font-weight: 600;
+}
+.content image.data-v-4a40ea06 {
+  padding: 0 20rpx;
+  width: 710rpx;
+  height: 1070rpx;
+}
+

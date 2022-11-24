@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "咨询列表",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "synthesis": "/components/synthesis/synthesis",
+    "u-search-bar": "/uni_modules/uni-search-bar/components/uni-search-bar/uni-search-bar",
+    "u-segmented-control": "/uni_modules/uni-segmented-control/components/uni-segmented-control/uni-segmented-control"
+  }
+}

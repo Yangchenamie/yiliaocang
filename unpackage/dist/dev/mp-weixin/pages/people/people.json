@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "我的",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#177fff",
+  "usingComponents": {
+    "weixinlogin": "/components/weixinlogin/weixinlogin",
+    "center": "/components/center/center",
+    "delivery-order": "/components/deliveryOrder/deliveryOrder",
+    "reservation-order": "/components/reservationOrder/reservationOrder",
+    "register": "/components/register/register",
+    "other-functions": "/components/otherFunctions/otherFunctions"
+  }
+}

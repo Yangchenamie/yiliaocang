@@ -1,0 +1,130 @@
+page.data-v-5c406b90,._div.data-v-5c406b90,._dl.data-v-5c406b90,._dt.data-v-5c406b90,._dd.data-v-5c406b90,._ul.data-v-5c406b90,._ol.data-v-5c406b90,._li.data-v-5c406b90,._h1.data-v-5c406b90,._h2.data-v-5c406b90,._h3.data-v-5c406b90,._h4.data-v-5c406b90,._h5.data-v-5c406b90,._h6.data-v-5c406b90,._pre.data-v-5c406b90,._code.data-v-5c406b90,form.data-v-5c406b90,._fieldset.data-v-5c406b90,._legend.data-v-5c406b90,input.data-v-5c406b90,button.data-v-5c406b90,textarea.data-v-5c406b90,._p.data-v-5c406b90,._blockquote.data-v-5c406b90,._th.data-v-5c406b90,._td.data-v-5c406b90 {
+    margin: 0;
+    padding: 0;
+}
+._img.data-v-5c406b90{
+    border:0;
+    vertical-align:middle
+}
+._ul.data-v-5c406b90,._li.data-v-5c406b90 {
+    list-style: none;
+}
+._a.data-v-5c406b90 {
+    text-decoration: none;
+}
+._i.data-v-5c406b90 {
+    font-family: 'icomoon';
+    font-style: normal;
+}
+._em.data-v-5c406b90 {
+    font-style: normal;
+}
+/* 让所有斜体 不倾斜 */
+._em.data-v-5c406b90,
+._i.data-v-5c406b90 {
+    font-style: normal;
+}
+/* 去掉列表里前面的小点 */
+._li.data-v-5c406b90 {
+    list-style: none;
+}
+/* 图片没有边框  去掉图片底侧的空白缝隙 */
+._img.data-v-5c406b90 {
+    border: 0;
+    vertical-align: middle;
+}
+/* 让button按钮变成小手 */
+button.data-v-5c406b90 {
+    cursor: pointer;
+}
+.con-body.data-v-5c406b90 {
+  padding: 20rpx;
+}
+.items .item.data-v-5c406b90 {
+  margin: 40rpx 0;
+  padding: 40rpx;
+  width: 630rpx;
+  border-radius: 20rpx;
+  box-shadow:0 0 10rpx 5rpx rgba(0,0,0,0.1);
+}
+.items .item .item-head.data-v-5c406b90 {
+  display: flex;
+  justify-content: space-between;
+}
+.items .item .item-head .item-head-left.data-v-5c406b90 {
+  display: flex;
+}
+.items .item .item-head .item-head-left ._p.data-v-5c406b90 {
+  font-size: 28rpx;
+  line-height: 38rpx;
+}
+.items .item .item-head .item-head-left image.data-v-5c406b90 {
+  width: 40rpx;
+  height: 40rpx;
+  margin-right: 6rpx;
+}
+.items .item .item-head .item-head-right ._p.data-v-5c406b90 {
+  font-size: 30rpx;
+  position: relative;
+}
+.item-body.data-v-5c406b90 {
+  margin-top: 20rpx;
+  display: flex;
+}
+.item-body image.data-v-5c406b90 {
+  width: 150rpx;
+  height: 150rpx;
+  border-radius: 20rpx;
+}
+.item-body .detail .title.data-v-5c406b90 {
+  font-size: 44rpx;
+  font-weight: 700;
+}
+.item-body .detail  .professional.data-v-5c406b90{
+  position: absolute;
+  left: 180rpx;
+  top: 20rpx;
+  font-size: 36rpx;
+  width: 100%;
+}
+.item-body .detail.data-v-5c406b90 {
+  position: relative;
+  padding-left: 20rpx;
+  padding-top: 10rpx;
+}
+.item-body .detail .people.data-v-5c406b90 {
+  position: relative;
+  font-size: 30rpx;
+  padding-top: 20rpx;
+  padding-bottom: 20rpx;
+  color: #177fff;
+}
+.item-body .detail .price.data-v-5c406b90 {
+  color: #f9284d;
+  font-size: 36rpx;
+  font-weight: 600;
+}
+.item-bootom.data-v-5c406b90 {
+  position: relative;
+  padding-top: 20rpx;
+}
+.item-bootom .time.data-v-5c406b90 {
+  font-size: 28rpx;
+  color: #666666;
+  line-height: 60rpx;
+  font-weight: 600;
+}
+.item-bootom .btn .hexiao.data-v-5c406b90 {
+  position: absolute;
+  display: block;
+  text-align: center;
+  border: 2rpx solid #177FFF;
+  border-radius: 20rpx;
+  color: #177ffe;
+  background-color: #f1f7ff;
+  padding: 12rpx 30rpx;
+  font-weight: 400;
+  right: 0rpx;
+  bottom: 0rpx;
+}
+

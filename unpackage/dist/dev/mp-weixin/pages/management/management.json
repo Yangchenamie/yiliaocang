@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "我的订单",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "manage-all": "/components/manageAll/manageAll",
+    "no-cart": "/components/noCart/noCart",
+    "off-list": "/components/offList/offList",
+    "deliver": "/components/deliver/deliver",
+    "evaluated": "/components/evaluated/evaluated",
+    "done": "/components/done/done",
+    "u-search-bar": "/uni_modules/uni-search-bar/components/uni-search-bar/uni-search-bar",
+    "u-segmented-control": "/uni_modules/uni-segmented-control/components/uni-segmented-control/uni-segmented-control"
+  }
+}

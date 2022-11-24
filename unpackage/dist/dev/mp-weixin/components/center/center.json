@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "delivery-order": "/components/deliveryOrder/deliveryOrder",
+    "reservation-order": "/components/reservationOrder/reservationOrder",
+    "register": "/components/register/register",
+    "other-functions": "/components/otherFunctions/otherFunctions",
+    "my-info": "/components/my-info/my-info"
+  }
+}

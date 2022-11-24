@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#177fff",
+  "usingComponents": {
+    "drug-information": "/components/drugInformation/drugInformation",
+    "drug-ways": "/components/drugWays/drugWays"
+  }
+}
